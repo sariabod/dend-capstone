@@ -1,4 +1,6 @@
 nohup.out
+.ipynb_checkpoints
+*.cfg
 *.db
 venv
 .DS_Store

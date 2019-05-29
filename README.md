@@ -72,7 +72,7 @@ Airflow Steps:
 ![Sample Results 3](results2.png)
 
 ## Scaling
-Since this system is build on Spark and Airflow it is very much horizontally scalable. Airflow can handle millions of records. 
+Since this system is built on Spark and Airflow it is very much horizontally scalable. Airflow can handle the processing of millions of records. 
 
 [Benefits of Airflow](https://www.xenonstack.com/insights/what-is-apache-airflow/)
 

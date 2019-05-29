@@ -39,7 +39,7 @@ This dataset was broken up and stored on s3 using CSVs segmented by day to simul
 ![Data structure on s3](crimes_s3.png)
 
 ## Process
-We will be using PySpark to analyse and store the data. We will be using Airflow to manage the orchestration.
+We will be using PySpark to analyze and store the data. We will be using Airflow to manage the orchestration.
 
 Airflow Steps:
 * Load Temperture and Crime Data
